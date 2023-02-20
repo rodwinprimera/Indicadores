@@ -1,0 +1,11 @@
+# dependencies
+/frontend/node_modules
+
+# misc
+/frontend/.DS_Store
+/frontend/npm-debug.log*
+/frontend/yarn-debug.log*
+/frontend/yarn-error.log*
+
+# bundles
+src/public/*.bundle.js

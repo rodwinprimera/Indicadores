@@ -1,0 +1,19 @@
+.Content {
+	margin: 0 auto;
+	width: 100%;
+	height: '100vh';
+	background-color: white;
+	-webkit-box-shadow: 7px 8px 12px -4px rgba(20,33,117,0.68);
+-moz-box-shadow: 7px 8px 12px -4px rgba(20,33,117,0.68);
+box-shadow: 7px 8px 12px -4px rgba(20,33,117,0.68);
+
+
+}
+.td a {
+    color: rgb(90, 91, 92);
+    text-decoration: none;
+}
+
+.td  a:hover {
+    color: rgb(6, 6, 121);
+}
